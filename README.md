@@ -1,3 +1,4 @@
+https://docs.google.com/document/d/1jw2jLgGun4HV8LOziOAbAZQkAGqUn54X89EwfUdkZFw/edit?tab=t.7atnuuko46x#heading=h.9y0ihcb6g9ge
 рактическая работа выполняется на ПЭВМ. Каждая сеть эмулируется одной ОС (Виртульной машиной) из заданной подсети.
 
 Необходимо на каждой машине настроить сеть и по необходимости - брандмауэр (сетевой экран) Iptables.
